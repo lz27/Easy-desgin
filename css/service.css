@@ -1,0 +1,63 @@
+.service{
+    width: 100%;
+    height: 1113px;
+}
+.service-c{
+    position: relative;
+    width: 1200px;
+    height: 100%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.easy-design-address{
+    width: 100%;
+    height: 14px;
+    margin-top: 20px;
+}
+.easy-design-address span{
+    color: #668aca;
+}
+.easy-design-address img{
+    margin-left: 11px;
+    margin-right: 11px;
+    vertical-align: middle;
+}
+.service .title{
+    font-family: PingFangSC-Light;
+    font-size: 18px;
+    font-weight: normal;
+    margin-top: 49px;
+    color: #6b6b6b;
+}
+.service .en{
+    font-family: PingFangSC-Thin;
+    font-size: 12px;
+    margin-top: 8px;
+    color: #989898;
+}
+.service .ch{
+    font-family: PingFangSC-Thin;
+    margin-top: 18px;
+    color: #989898;
+    width: 380px;
+    line-height: 30px;
+}
+.service .service-line{
+    width: 328px;
+    height: 1px;
+    background-color: #f0f0f0;
+    margin-top: 20px;
+}
+
+.service-c .image1{
+    position: absolute;
+    top: 83px;
+    right: 7px;
+
+}
+.service-c .image2{
+    position: absolute;
+    top: 513px;
+    right: 7px;
+
+}

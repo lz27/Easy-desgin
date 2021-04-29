@@ -1,0 +1,110 @@
+.about{
+    width: 100%;
+    height: 1257px;
+}
+.about-c{
+    position: relative;
+    width: 1200px;
+    height: 100%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.easy-design-address{
+    width: 100%;
+    height: 14px;
+    margin-top: 20px;
+}
+.easy-design-address span{
+    color: #668aca;
+}
+.easy-design-address img{
+    margin-left: 11px;
+    margin-right: 11px;
+    vertical-align: middle;
+}
+.about-title{
+    width: 100%;
+    height: 43px;
+    margin-top: 29px;
+    margin-bottom: 30px;
+}
+.title-name{
+    font-size: 18px;
+    line-height: 18px;
+    color: #767676;
+
+}
+.title-en{
+    font-size: 12px;
+    line-height: 12px;
+    color: #6b6b6b;
+    margin-top: 6px;
+}
+.title-ins{
+    width: 30px;
+    height: 1px;
+    background-color: #989898;
+    margin-top: 6px;
+}
+
+.about-list{
+    width: 100%;
+    height: 530px;
+}
+
+.about-item{
+    float: left;
+    width: 547px;
+    height: 200px;
+    margin-right: 53px;
+    margin-bottom: 30px;
+}
+
+.about-item .img{
+    float: left;
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+}
+.item-text{
+    width: 324px;
+    float: right;
+}
+.item-text .name{
+    margin-top: 31px;
+    color: #6b6b6b;
+    font-size: 18px;
+}
+.item-text .job{
+    margin-top: 9px;
+    color: #6b6b6b;
+}
+.item-text .desc{
+    margin-top: 12px;
+    font-size: 12px;
+    color: #6b6b6b;
+}
+.mission-text{
+    width: 606px;
+    height: 171px; 
+    text-indent: 2em;
+    line-height: 30px;
+    color: #989898;
+}
+
+.mission-text .text1{
+    margin-bottom: 20px;
+    color: #989898;
+}
+
+.vision{
+    width: 606px;
+    text-indent: 2em;
+    color: #989898;
+    line-height: 30px;
+}
+.about-1{
+    position: absolute;
+    right: 0;
+    bottom: 184px;
+}
